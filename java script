@@ -1,0 +1,6 @@
+document.getElementById("contactForm").onsubmit = function () {alert("Your inquiry has been submitted. ");
+  return false; };
+
+document.getElementsByTagName("tr")[1].onclick = function () {alert("Sunday Drag race at 10 - 11 PM in Bahrain National Circet");};
+
+document.getElementsByTagName("tr")[2].onclick=function(){alert("No Drag Race ")}
