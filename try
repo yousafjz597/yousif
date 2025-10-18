@@ -1,0 +1,65 @@
+<!Doctype html>
+<html>
+<html lang="eng">
+  <head>
+    <title>welcome to gtb</title>
+   <link rel="stylesheet" href="style.css"/>
+  </head> 
+      
+    <body>
+      <nav>
+      <ul class="nav">
+      <li><a href="menu" class=navlink>menu</a></li>
+      <li><a href="products" class=navlink>Products</a></li>
+      <li><a href="contactus" class="navlink">contuct Us</a></li>
+        </nav>
+        </body>
+      <br>
+  <section id=#welcome>
+           <h1> welcome to our page</h1>
+    <p>order here on our page</p>
+      </section>
+      <section id="our menu" class=#menu>
+        <h2>menu</h2>
+        <table class="table">
+        <th>1</th>
+        <th>2</th>
+        </tr>
+        <tr>
+          <td><img src="png1" alt="png1" id="png"</td>
+          <td>prise</td>
+        </tr>
+           <tr>
+          <td><img src="png1" alt="png1" id="png"</td>
+          <td>prise</td>
+        </tr>
+        </table>
+        </section>
+      <section id="input" class="input">
+               <h3>contact us</h3>
+        <lable for=name>name</lable><br>
+        <input type="email" id="email"><br><br>
+        <lable for="mail">mail</lable><br>
+          <input type="email" id="email"><br>
+        <lable for="message">massge</lable><br>
+        <textarea id="message" raw="" cols="" required></textarea>
+        <br>
+        <button type="submit">submit</button>
+        <footer><p>cpr 20019</p></footer>
+    <script src="script.js"></script>
+      
+      
+      
+   
+      
+      
+      
+
+        
+  
+  
+  
+  
+  
+  
+      </html>   
